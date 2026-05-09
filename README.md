@@ -326,14 +326,10 @@ Skills are reusable instructions and workflows for Claude Code or other agent sy
 
 > Note: the v0.1 Learn section is intentionally short. Future updates can add talks, courses, podcasts, and conference sessions as they become useful to readers.
 
----
-
 <a id="contributing"></a>
 ## Contributing
 
 We welcome community contributions: new entries, removal of dead links, and discussion on sub-category boundaries. Start with [CONTRIBUTING.md](CONTRIBUTING.md) — the quality bar, submission format, and bilingual-PR 7-day SLA all live there. New entries are smoothest via the [Issue: add entry](.github/ISSUE_TEMPLATE/add-entry.md) template; removals via the [Issue: remove entry](.github/ISSUE_TEMPLATE/remove-entry.md) template.
-
----
 
 <a id="related-awesome-lists"></a>
 ## Related awesome lists
