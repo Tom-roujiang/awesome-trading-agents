@@ -10,5 +10,9 @@ CLAUDE.md
 docs/
 research/
 
+# --- Claude Code local agent settings ---
+# Per-developer overrides; not part of the shared project config.
+.claude/settings.json
+
 # --- OS / editor cruft ---
 .DS_Store

@@ -29,6 +29,7 @@ on:
     paths:
       - "**.md"
       - ".github/workflows/link-check.yml"
+      - ".lycheeignore"
   schedule:
     - cron: "0 8 * * 1"  # Mondays 08:00 UTC — weekly link-rot sweep
   workflow_dispatch:
